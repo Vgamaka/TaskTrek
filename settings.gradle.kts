@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "note App"
+rootProject.name = "TaskTrek"
 include(":app")
  
